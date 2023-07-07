@@ -1,0 +1,15 @@
+Variables in Postman
+https://learning.postman.com/docs/sending-requests/variables/
+
+- O variabilă este un nume pentru un loc din memoria computerului în care stocați anumite date.
+
+get variables from response
+https://blog.postman.com/extracting-data-from-responses-and-chaining-requests/
+
+https://www.codecademy.com/article/what-is-rest
+
+UI
+  APi Postman
+         DB - SQL
+
+
